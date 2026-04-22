@@ -1,0 +1,25 @@
+{
+  "name": "tokiike.org",
+  "version": "0.1.0",
+  "description": "Toki Ike official website",
+  "homepage": "https://github.com/Milk-Cool/tokiike.org#readme",
+  "bugs": {
+    "url": "https://github.com/Milk-Cool/tokiike.org/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Milk-Cool/tokiike.org.git"
+  },
+  "license": "MIT",
+  "author": "Milk_Cool",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^8.0.9"
+  }
+}
